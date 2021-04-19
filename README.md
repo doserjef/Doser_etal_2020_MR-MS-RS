@@ -4,7 +4,7 @@
 
 ### Jeffrey W. Doser, Aaron S. Weed, Elise F. Zipkin, Kathryn M. Miller, Andrew O. Finley
 
-### Code/Data DOI:
+### Code/Data DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4701477.svg)](https://doi.org/10.5281/zenodo.4701477)
 
 ### Please contact the first author for questions about the code or data: Jeffrey W. Doser (doserjef@msu.edu)
 
